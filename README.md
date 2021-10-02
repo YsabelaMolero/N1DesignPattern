@@ -12,10 +12,10 @@ Nome: Singleton
 Tipo: Criação
 Objetivo: Garantir que a classe tenha uma única instância e promover um meio global de acesso a essa instância
 Diagrama UML:
-# ![alt text](Img Singleton.png)
+![alt text](/Img Singleton.png)
 
 Nome: Proxy
 Tipo: Estrutura
 Objetivo: O Proxy é um padrão de projeto estrutural que permite que você forneça um substituto ou um espaço reservado para outro objeto. Um proxy controla o acesso ao objeto original, permitindo que você faça algo ou antes ou depois do pedido chegar ao objeto original.
 Diagrama UML:
-# ![alt text](Img Proxy.png)
+![alt text](/Img Proxy.png)
